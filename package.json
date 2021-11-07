@@ -1,0 +1,22 @@
+{
+  "name": "soda-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srilekhapulaparthi/SoDA-Bootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srilekhapulaparthi/SoDA-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/srilekhapulaparthi/SoDA-Bootcamp#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}

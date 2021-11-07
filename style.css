@@ -1,0 +1,75 @@
+.background {
+    background-color: black;
+    
+}
+#intro_page_title {
+    color:blue;
+}
+.page_title{
+    font-size: 120px;
+    font-weight: bolder;
+    font-family: 'Arial Narrow', Arial;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#cursor{
+    color: brown;
+    font-size:100px ;
+    font-family:sans-serif ;
+    font-weight: lighter;
+    vertical-align: text-top;
+}
+.center {
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+#profile_pic {
+    display: block;
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+}
+.summary-content{
+    color:green;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+#ASU {
+    color: blueviolet;
+    font-weight: bolder;
+}
+.toggle_button{
+    display: inline-block;
+    text-align: center;
+    text-transform: uppercase;
+    background: white;
+    border-radius: 6px;
+    transition: all 0.3s ease 0s;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+.toggle_button:hover{
+    border-radius: 30px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+#projects_toggle{
+    border: 4px solid yellowgreen;
+}
+#projects_toggle:hover{
+    color: purple;
+
+}
+#experience_toggle{
+    border: 4px solid red;
+}
+#experience_toggle:hover{
+    color: purple;
+}
